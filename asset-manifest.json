@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_rajan/static/css/main.eabcaa97.css",
+    "main.js": "/react_rajan/static/js/main.f4191603.js",
+    "static/js/787.9c18ec73.chunk.js": "/react_rajan/static/js/787.9c18ec73.chunk.js",
+    "index.html": "/react_rajan/index.html",
+    "main.eabcaa97.css.map": "/react_rajan/static/css/main.eabcaa97.css.map",
+    "main.f4191603.js.map": "/react_rajan/static/js/main.f4191603.js.map",
+    "787.9c18ec73.chunk.js.map": "/react_rajan/static/js/787.9c18ec73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eabcaa97.css",
+    "static/js/main.f4191603.js"
+  ]
+}
